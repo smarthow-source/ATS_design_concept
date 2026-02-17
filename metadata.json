@@ -1,0 +1,6 @@
+{
+  "name": "Nexus ATS",
+  "description": "Next-generation Applicant Tracking System with role-based workflows and AI-powered candidate evaluation.",
+  "requestFramePermissions": [],
+  "prompt": "Create an Applicant Tracking System with a worklist for hiring managers to shortlist/interview, TA for contact logs, and TA managers for overdue tracking, plus a test results page for module scoring."
+}
